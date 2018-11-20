@@ -1,3 +1,2 @@
 foods
-clear
 apple
